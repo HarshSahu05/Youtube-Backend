@@ -1,1 +1,1 @@
-indexedDB.js
+export const DB_NAME = "Youtube Database"
